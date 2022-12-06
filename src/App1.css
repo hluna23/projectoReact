@@ -1,0 +1,25 @@
+.Lista{
+
+padding-left: 25px;
+font-family: 'roboto';
+font-weight: bold;
+font-size: 15px;
+margin-left: 180px;
+margin-top: 100px;
+text-transform: capitalize;
+color: blue;
+
+}
+
+.Btn{
+
+
+  left: 80px;
+  margin-top:  25px;
+  background-color: blueviolet;
+}
+
+.Btn:hover{
+background-color: rgb(94, 94, 184);
+  color: brown;
+}
